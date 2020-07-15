@@ -1,0 +1,38 @@
+.ant-layout-header{
+    background-color: #fff;
+}
+html,body{
+    width: 100%;
+    height:100%;
+    margin: 0;
+    padding: 0;
+}
+//
+aside{
+    .logo{
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      .logo-img{
+        height: 80px;
+        width: 80px;
+        border-radius: 40px;
+        background-color: #fff;
+        text-align: center;
+        line-height: 80px;
+        font-size: 30px;
+        font-weight: bold;
+        color: orange;
+      }
+    }
+}
+.ant-layout-header{
+    background-color: #fff;
+  }
+.ant-layout{
+    height: 650px;
+}
+.ant-layout-content{
+    height: 100%;
+}
